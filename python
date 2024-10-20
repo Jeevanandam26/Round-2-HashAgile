@@ -110,7 +110,7 @@ def getDepFacet(p_collection_name):
         print(f"Department: {bucket['key']}, Count: {bucket['doc_count']}")
 
 v_nameCollection = 'hash_jeevanandam'  
-v_phoneCollection = 'hash_2258'          
+v_phoneCollection = 'hash_2557'          
 
 createCollection(v_nameCollection)
 createCollection(v_phoneCollection)
